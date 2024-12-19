@@ -10,8 +10,7 @@ To write a program to find the LU Decomposition of a matrix.
 ## Algorithm
 Step1: Define the package as scipy.linaly import lu
 Step2: Get input from user and print L and U matrix by 'print'
-Step3: Define a package as "from scipy.linalg import lu_factor,lu_solve" and create variable and 
-package in that variable
+Step3: Define a package as "from scipy.linalg import lu_factor,lu_solve" package in that variable
 Step4: print the variable 'X'
 
 ## Program:
